@@ -41,4 +41,4 @@ MS-DOS'a benzeyen Türkçe bir işletim sistemi.
 - kapat -- bilgisayarı kapatır
 - yenidenb -- bilgisayarı yeniden başlatır
 - ttt -- Tic-Tac-Toe oynatır
-# GEREKLİ DİĞER TÜM BİLGİLER .RAR DOSYASININ İÇİNDEKİ ReadMe.txt'DE BULUNMAKTADIR. OKUDUĞUNUZ İÇİN TEŞEKKÜRLER :)
+# GEREKLİ DİĞER TÜM BİLGİLER .RAR DOSYASININ İÇİNDEKİ Instructions.txt'DE BULUNMAKTADIR. OKUDUĞUNUZ İÇİN TEŞEKKÜRLER :)
