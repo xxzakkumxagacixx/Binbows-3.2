@@ -25,7 +25,7 @@ MS-DOS'a benzeyen Türkçe bir işletim sistemi.
 - duzenle -- kullanıcının dosyalarından seçileni düzenler
 - bin -- şifre dosyaları hariç silinen tüm dosyalar buraya taşınır, bu sekmeden onları geri getirebilir veya kalıcı olarak silebilirsiniz.
 - formatla -- tüm kullanıcıları ve lisansınızı siler, Binbows'u sıfırdan kurmuşsunuz gibi olur.
-- ***NOT: dosyasil, duzenle ve olustur komutlarıyla kullanıcının şifresini ekleyebilir, değiştirebilir veya silebilirsiniz. Bunun için bu komutlardan birini yazın ve logged-in durumda olan kullanıcının adını yazın.***
+- ***NOT: dosyasil, duzenle ve olustur komutlarıyla kullanıcı şifresi ekleyebilir, değiştirebilir veya silebilirsiniz. Bunun için bu komutlardan birini yazın ve logged-in durumda olan kullanıcının adını yazın.***
 ## Görsel Komutlar
 - renk -- arkaplan rengini değiştirir _(Fun Fact! renk seçtikten sonra *temiz* komutunu kullanırsanız tüm konsol o renge döner :))_
 - tema -- renk komutunun aksine seçilen temayla yazının rengi de değişir.
